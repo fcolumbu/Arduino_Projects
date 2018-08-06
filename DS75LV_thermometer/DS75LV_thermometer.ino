@@ -9,12 +9,12 @@
 // Demonstrates use of the Wire library
 // Reads data from an I2C/TWI slave device
 // Refer to the "Wire Slave Sender" example for use with this
-
+//
 // Original "Master Reader Created 29 March 2006
- 
+// 
 // This code also merges in the Seeed Studio code for the Grove LCD display.
 // This example code is in the public domain.
-
+//
 // Related web links:
 //
 // Maxim DS75LVdatasheet
